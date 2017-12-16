@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9a9dfee-8de5-4e67-a189-f2bdc8cbf696" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+>>>>>>> branch2
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +20,17 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="355">
               <caret line="131" column="127" lean-forward="false" selection-start-line="131" selection-start-column="127" selection-end-line="131" selection-end-column="127" />
               <folding>
                 <marker date="1513412221000" expanded="false" signature="12864:12870" ph="©" />
               </folding>
+=======
+            <state relative-caret-position="450">
+              <caret line="131" column="128" lean-forward="true" selection-start-line="131" selection-start-column="35" selection-end-line="131" selection-end-column="128" />
+              <folding />
+>>>>>>> branch2
             </state>
           </provider>
         </entry>
@@ -50,7 +59,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="240" />
     <option name="y" value="130" />
     <option name="width" value="1440" />
@@ -88,6 +97,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -115,11 +125,16 @@
       <option name="presentableId" value="Default" />
       <updated>1513395548990</updated>
       <workItem from="1513395551334" duration="4000" />
+      <workItem from="1513412018773" duration="115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="66000" />
+=======
+    <option name="totallyTimeSpent" value="119000" />
+>>>>>>> branch2
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -159,11 +174,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="355">
           <caret line="131" column="127" lean-forward="false" selection-start-line="131" selection-start-column="127" selection-end-line="131" selection-end-column="127" />
           <folding>
             <marker date="1513412221000" expanded="false" signature="12864:12870" ph="©" />
           </folding>
+=======
+        <state relative-caret-position="450">
+          <caret line="131" column="128" lean-forward="true" selection-start-line="131" selection-start-column="35" selection-end-line="131" selection-end-column="128" />
+          <folding />
+>>>>>>> branch2
         </state>
       </provider>
     </entry>
